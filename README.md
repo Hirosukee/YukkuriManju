@@ -1,5 +1,7 @@
 # YukkuriManju
-The mod add eatable yukkuri manju for minecraft 1.7.10.
+This mod adds eatable yukkuri manju to your minecraft.  
+the manjus that will be added are reimu and marisa.    
+the mod is now available for 1.7.10.  
 
 ## Recipe
 
