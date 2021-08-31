@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yukkurimanju",
+  "name": "Yukkuri Manju",
+  "description": "This mod adds eatable yukkuri manju to your minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hirosuke"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
