@@ -23,3 +23,6 @@ DL: [YukkuriManju-1.7.10_1.2.jar](https://github.com/Hirosukee/YukkuriManju/rele
 
 ## 実装予定
 * 今のところなし
+
+## 導入
+jarファイルをmodフォルダーに入れるだけでおｋです。
