@@ -3,9 +3,6 @@
 
 ゆっくり饅頭を食べ物として追加します。
 
-DL: [YukkuriManju-1.7.10_1.2.jar](https://github.com/Hirosukee/YukkuriManju/releases/download/1.2/YukkuriManju-1.7.10_1.2.jar)  
-スレ: https://forum.civa.jp/viewtopic.php?f=3&t=796  
-
 ## 追加要素
 * **ゆっくり霊夢**  
 回復度は5です。  
@@ -22,7 +19,7 @@ DL: [YukkuriManju-1.7.10_1.2.jar](https://github.com/Hirosukee/YukkuriManju/rele
 </details>  
 
 ## 実装予定
-* 今のところなし
+* さらなる饅頭の追加
 
 ## 導入
 jarファイルをmodフォルダーに入れるだけでおｋです。
