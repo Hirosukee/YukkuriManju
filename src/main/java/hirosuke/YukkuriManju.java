@@ -15,7 +15,7 @@ import net.minecraft.item.ItemStack;
 public class YukkuriManju {
     public static final String modid = "yukkurimanju";
     public static final String name = "Yukkuri Manju";
-    public static final String version = "1.0";
+    public static final String version = "1.2";
 
     public static Item itemReimu;
     public static Item itemMarisa;
