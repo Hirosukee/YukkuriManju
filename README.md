@@ -1,11 +1,25 @@
-# YukkuriManju
-This mod adds eatable yukkuri manju to your minecraft.  
-the manjus that will be added are reimu and marisa.    
-the mod is now available for 1.7.10.  
+# ゆっくり饅頭Mod
+![image](https://user-images.githubusercontent.com/51872161/133636704-6bd954a2-3886-405f-b0d8-bd2e51145dd0.png)
 
-## Recipes
+ゆっくり饅頭を食べ物として追加します。
 
-place items just like this image in crafting table to you can make reimu.  
-![image](https://user-images.githubusercontent.com/51872161/131226931-bef70056-6f79-48ae-835a-3e4c51112ccb.png)  
-and burn a reimu, you can get marisa.  
-![image](https://user-images.githubusercontent.com/51872161/131226937-c9a639f9-cbf6-4f70-ae64-eab80a3182df.png)
+## 追加要素
+* **ゆっくり霊夢**  
+回復度は5です。  
+<details><summary>レシピを表示</summary>
+
+> ![image](https://user-images.githubusercontent.com/51872161/133637864-1913b947-5e3e-4bcb-9a89-eb43e99dc990.png)  
+</details>  
+
+* **ゆっくり魔理沙**  
+回復度は7です。  
+<details><summary>レシピを表示</summary>
+
+> ![image](https://user-images.githubusercontent.com/51872161/133638389-f9db3a41-860e-4044-a47e-de2abdc359f1.png)
+</details>  
+
+## 実装予定
+* さらなる饅頭の追加
+
+## 導入
+jarファイルをmodフォルダーに入れるだけでおｋです。
